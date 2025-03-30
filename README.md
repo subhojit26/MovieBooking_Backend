@@ -1,0 +1,1 @@
+This is the backend of a movie booking platform built using JAVA and SpringBoot with MySQL as storage. In this there are two interfaces i.e User and Admin interfaces with different capabilities given to each of them. The Admin can add and delete movies as well as shows where as the user can book his ticket with his credentials and theatre, number of seats and seat number. 
